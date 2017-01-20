@@ -1,0 +1,220 @@
+/* CSS declarations go here */
+body {
+  font-family: sans-serif;
+  background-color: #f2f2f2;
+  /*background-image: linear-gradient(to bottom, #ffb3b3, #e6e6e, #b3b3ff); */
+  /*background-image: repeating-linear-gradient(-10deg, white, white 75px, #88B5FB 75px, #E65733, #88B5FB 150px);*/
+  background: radial-gradient(white, #88B5FB);
+  background: -webkit-radial-gradient(white, #88B5FB);
+  background: -moz-radial-gradient(white, #88B5FB);
+  background: -o-radial-gradient(white, #88B5FB);
+  background: -ms-radial-gradient(white, #88B5FB);
+  background-attachment: fixed;
+
+  overflow-x:hidden;
+
+  height: 100%;
+  max-width: 100%;
+  position: center;
+
+  padding: 0;
+  margin: 0;
+
+  font-size: 14px;
+}
+
+
+
+
+.flex-container {
+  padding: 0;
+  margin: 5px;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.flex-item {
+  padding: 5px;
+  width: 75px;
+  height: 75px;
+  margin-top: 5px;
+  margin-bottom: 11%;
+  
+  color: rgba(0, 0, 0, 0.55);
+  font: bold 1em/15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  font-size: 85%;
+  text-align: center;
+}
+
+.map-container {
+  /*width: 800px; */
+  max-width: 95%;
+  position: center;
+  margin: 0 auto 0 auto;
+  height: 80vh;
+}
+
+.box_round {
+  height: 75%;
+  -moz-border-radius: 10px; /* FF1+ */
+  -webkit-border-radius: 10px; /* Saf3-4 */
+  border-radius: 10px; /* Opera 10.5, IE 9, Saf5, Chrome */
+  background-color: #cee0fd;
+}
+
+.map-canvas {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.caption {
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+    text-align: center;
+}
+
+.img {
+  vertical-align: center;
+  display: inline;
+}
+
+header {
+  background: transparent;
+  /*background-image: linear-gradient(to bottom, #b3b3ff, #8080ff 100%);*/
+  padding: 20px 15px 15px 15px;
+  position: relative;
+}
+
+.myIframe {
+  width: 1280px;
+    height: 786px;
+    border: 0;
+
+    -ms-transform: scale(0.25);
+    -moz-transform: scale(0.25);
+    -o-transform: scale(0.25);
+    -webkit-transform: scale(0.25);
+    transform: scale(0.25);
+
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+
+/**
+ * Extra button extensions. Extends `.btn`.
+ */
+.btn-test {
+  margin: 9%;
+}
+
+.navbar-inverse{
+  /*background: repeating-linear-gradient(20deg, white 15px, #88B5FB 15px, #f36a58, #88B5FB 20px);*/
+  margin-bottom: 0;
+}
+
+.inner{
+  display: inline-block;
+  margin:0; padding:0;
+}
+
+#login-buttons {
+  display: block;
+}
+
+h1 {
+  font-size: 8vw;
+  text-align: center;
+  display: inline;
+  color: #2273f7; 
+  text-shadow: black 0.1em 0.1em 0.3em
+}
+
+h2 {
+ color: #033991;
+ text-shadow: black 0.1em 0.1em 0.3em
+}
+
+h3 {
+  text-align: justify;
+  margin: 0 auto;
+  width: 8em;
+
+
+  /*Step 3: Text Styles*/
+  color: rgba(0, 0, 0, 0.55);
+  bottom: 8px;
+  font: bold 1em/15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.h4 {
+  margin: 0 auto;
+
+
+  /*Step 3: Text Styles*/
+  color: rgba(0, 0, 0, 0.55);
+  bottom: 8px;
+  font: bold 1em/15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+h5 {
+  margin-bottom: 2px;
+  margin-top: 2px;
+  padding: 0;
+  color:#cee0fd;
+
+
+
+}
+
+
+
+
+.iframecontainer{
+    background-color: yellow;
+    display:flex;
+    display: -ms-flex;
+align-items: stretch;    
+align-content:stretch;
+    flex-direction: row; 
+        
+ 
+}
+
+.child{
+	background-color:red;
+	flex: 1 250px;
+ 
+
+ 
+}
+
+.gridview{
+display: grid;
+border: 2px solid black;
+padding:15px; 
+grid-template-rows: auto;
+}
+
+.row{
+content: "";
+clear:both;
+
+
+
+}
+
+
