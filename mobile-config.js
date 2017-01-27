@@ -8,10 +8,10 @@ App.info({
 });
 
 App.icons({
-  'android_ldpi': 'iconDefault.png',
-  'android_mdpi': 'iconDefault.png',
-  'android_hdpi': 'iconDefault.png',
-  'android_xhdpi': 'iconDefault.png'
+ // 'android_ldpi': 'res/iconDefaultL.png',
+  'android_mdpi': 'res/iconDefaultM.png',
+  'android_hdpi': 'res/iconDefaultH.png',
+  'android_xhdpi': 'res/iconDefaultXH.png'
 });
 
 App.launchScreens({

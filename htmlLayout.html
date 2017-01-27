@@ -1,12 +1,17 @@
 <head>
   <title>Thurston Votes Example App</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <link rel="stylesheet" href="<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css">
+
 </head>
 
 
 <template name="homePage">
+<center>
 <img src="top-section-solid-background.png" class="img-responsive">
-
+</center>
 <ul class="flex-container">
   <li class="flex-item"><a href="/electionResults"><img class="img-responsive" src="results.png" heihgt="75" width="75"></a>Election Results</li>
   <li class="flex-item"><a href="/registerToVote"><img class="img-responsive" src="MyVote.png" heihgt="75" width="75"></a>Register To Vote</li>
@@ -206,8 +211,8 @@ http://www.co.thurston.wa.us/auditor/Elections/voter_reg/ballot.htm" border='0' 
 
 <!-- Ballot Returns PDF --> 
 <template name="ballotReturns">
-<div class="gridview">
-<div class="gridview-child">
+<div class="wrapper">
+<div class="wrapper-child">
 <iframe src="http://www.co.thurston.wa.us/auditor/Elections/history/archive.htm" style="width:100%; height:600px; border:0;"></iframe>
 </div>
 </div>
@@ -217,9 +222,14 @@ http://www.co.thurston.wa.us/auditor/Elections/voter_reg/ballot.htm" border='0' 
 
 <!-- Sample Ballot PDF --> 
 <template name="sampleBallot">
-<div class="gridview">
-<div class="gridview-child">
-<iframe src="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf" style="width:100%; height:600px; border:0;"></iframe>
+<div class="wrapper">
+<div class="wrapper-child">
+<iframe src="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf" width="100%" height="600px"></iframe>
+
+<!-- <object data="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf" type="application/pdf">
+        <embed src="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf" type="application/pdf" />
+    </object> -->
+
 </div>
 </div>
 </template>
@@ -228,11 +238,14 @@ http://www.co.thurston.wa.us/auditor/Elections/voter_reg/ballot.htm" border='0' 
 
 <!-- Statistics PDF -->
 <template name="statistics">
-<div class="gridview">
-<div class="gridview-child">
-<iframe src="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/stats.pdf" style="width:100%; height:600px"></iframe>
+
+<div class="wrapper">
+<div class="child">
+<iframe src="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/stats.pdf" width="100%" height="600px"></iframe>
 </div>
 </div>
+
+
 </template>
 
 
@@ -329,23 +342,29 @@ https://drive.google.com/file/d/0B3WLgZT3F5_PRjdIbkk0dzdoRUZIS2VhX2g3YkxRNWZJQUR
 <template name="mainNav">
 	<body>
      <div class="navbar navbar-inverse">
-			<center>
-				<br>
-	    			<div style="float:left;" class="row inner" margin="0">
-                        <a href="/facebook"><i class="fa fa-facebook-official fa-2x fa-fw"></i></a>
-                        <a href="https://twitter.com/TCAuditor"><i class="fa fa-twitter-square fa-2x fa-fw"></i></a>
-                        <a href="https://www.instagram.com/thurstonauditor/"><i class="fa fa-instagram fa-2x fa-fw"></i></a>
-                        <a href="https://www.youtube.com/channel/UCxORZbqlmF1kADpJAu9EIOg"><i class="fa fa-youtube-square fa-2x fa-fw"></i></a>
-                        <br>
-                        <a href="http://www.co.thurston.wa.us/auditor/elections/electns.htm">Visit Our Website</a>
-        			</div>
+			
+			
+	    		
+                       		<a href="https://facebook.com"><i class="fa fa-facebook-official fa-2x fa-fw"></i></a>
+                        		<a href="https://twitter.com/TCAuditor"><i class="fa fa-twitter-square fa-2x fa-fw"></i></a>
+                        		<a href="https://www.instagram.com/thurstonauditor/"><i class="fa fa-instagram fa-2x fa-fw"></i></a>
+                        		<a href="https://www.youtube.com/channel/UCxORZbqlmF1kADpJAu9EIOg"><i class="fa fa-youtube-square fa-2x fa-fw"></i></a>
+ 
 
-			     <div class="box_round" style="float:right;">
-			     			<a href="javascript:history.back(1)"><i class="fa fa-arrow-circle-left fa-2x fa-fw" aria-hidden="true"></i></a> 
-	                	   <a class="inner" href="/"><i class="fa fa-home fa-2x fa-fw" aria-hidden="true"></i></a>
-	                	   <a class="inner" href="/contactUs"><i class="fa fa-user fa-2x fa-fw" aria-hidden="true"></i></a>
-			     </div>
-        </center>
+			
+        			
+
+			<div class="box_round" style="float:right"> 
+			
+			
+
+                        
+                        		<a href="http://www.co.thurston.wa.us/auditor/elections/electns.htm">Visit Our Website</a>
+			     		<a href="javascript:history.back(1)"><i class="fa fa-arrow-circle-left fa-2x fa-fw" aria-hidden="false"></i></a> 
+	                	   	<a class="inner" href="/"><i class="fa fa-home fa-2x fa-fw" aria-hidden="true"></i></a>
+	                	   	<a class="inner" href="/contactUs"><i class="fa fa-user fa-2x fa-fw" aria-hidden="true"></i></a>
+			</div>
+        
     </div>
        {{> yield }}
    </body>

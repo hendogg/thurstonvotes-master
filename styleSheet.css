@@ -1,6 +1,6 @@
 /* CSS declarations go here */
 body {
-  font-family: sans-serif;
+  font-family: FontAwesome;
   background-color: #f2f2f2;
   /*background-image: linear-gradient(to bottom, #ffb3b3, #e6e6e, #b3b3ff); */
   /*background-image: repeating-linear-gradient(-10deg, white, white 75px, #88B5FB 75px, #E65733, #88B5FB 150px);*/
@@ -30,6 +30,7 @@ body {
   padding: 0;
   margin: 5px;
   list-style: none;
+ 
   
   display: -webkit-box;
   display: -moz-box;
@@ -95,10 +96,10 @@ header {
   padding: 20px 15px 15px 15px;
   position: relative;
 }
-
+ /*
 .myIframe {
-  width: 1280px;
-    height: 786px;
+  width: 100%;
+    height: 100%;
     border: 0;
 
     -ms-transform: scale(0.25);
@@ -113,6 +114,7 @@ header {
     -webkit-transform-origin: 0 0;
     transform-origin: 0 0;
 }
+*/
 
 /**
  * Extra button extensions. Extends `.btn`.
@@ -124,19 +126,21 @@ header {
 .navbar-inverse{
   /*background: repeating-linear-gradient(20deg, white 15px, #88B5FB 15px, #f36a58, #88B5FB 20px);*/
   margin-bottom: 0;
+  z-index: 9;
 }
 
 .inner{
   display: inline-block;
   margin:0; padding:0;
+  z-index: 10;
 }
 
-#login-buttons {
+login-buttons {
   display: block;
 }
 
 h1 {
-  font-size: 8vw;
+  font-size: 8;
   text-align: center;
   display: inline;
   color: #2273f7; 
@@ -160,7 +164,7 @@ h3 {
   font: bold 1em/15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
-.h4 {
+h4 {
   margin: 0 auto;
 
 
@@ -182,39 +186,56 @@ h5 {
 
 
 
-
+/*
 .iframecontainer{
     background-color: yellow;
     display:flex;
     display: -ms-flex;
 align-items: stretch;    
 align-content:stretch;
-    flex-direction: row; 
+   
+    flex-direction: column; 
         
  
 }
+*/
+
+
+
+.wrapper{
+padding:15px;
+width: 100%;
+height: 600px;
+
+
+}
 
 .child{
-	background-color:red;
-	flex: 1 250px;
- 
-
- 
+	/*background-color:red;*/
+	width:100%;
+	height: 600px;
 }
 
-.gridview{
-display: grid;
-border: 2px solid black;
-padding:15px; 
-grid-template-rows: auto;
+
+@media screen
+	and (device-width: 360 px)
+	and (device-height: 640 px)
+	and (-webkit-min-device-pixel-ratio : 4)
+	and (-webkit-device-pixel-ratio : 4)
+	and (orientation: portrait) {
+
+
+.child{
+width:100%;
+
+}
 }
 
-.row{
-content: "";
-clear:both;
 
 
 
-}
+
+
+
 
 
