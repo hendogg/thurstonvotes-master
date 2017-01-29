@@ -126,7 +126,7 @@ header {
 .navbar-inverse{
   /*background: repeating-linear-gradient(20deg, white 15px, #88B5FB 15px, #f36a58, #88B5FB 20px);*/
   margin-bottom: 0;
-  z-index: 9;
+  z-index: 1;
 }
 
 .inner{

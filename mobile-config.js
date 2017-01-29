@@ -7,6 +7,8 @@ App.info({
 	website: 'http://example.com'
 });
 
+
+
 App.icons({
  // 'android_ldpi': 'res/iconDefaultL.png',
   'android_mdpi': 'res/iconDefaultM.png',
@@ -43,3 +45,5 @@ App.accessRule('*.google.com/*');
 App.accessRule('*.googleapis.com/*');
 App.accessRule('*.gstatic.com/*');
 App.accessRule("*");
+App.accessRule('http://*');
+App.accessRule('https://*');
