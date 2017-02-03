@@ -205,17 +205,44 @@ window.onload = TimeToVote();
 <ul class="flex-container">
   <li class="flex-item"><a href="/registrationDeadlines" ><img class="img-responsive" src="ElectionDates-RegDeadlines.png" heihgt="75" width="75"></a>Registration Deadlines</li>
   <li class="flex-item"><a href="/voterPamphlet"><img class="img-responsive" src="VotersPamphlet.png" heihgt="75" width="75"></a>Voter's Pamphlet</li>
-  <li class="flex-item"><a href="/sampleBallot" ><img class="img-responsive" src="SampleBallot.png"  heihgt="75" width="75"></a>Sample Ballot</li>
+
+
+<!--
+  <li class="flex-item"><a href="#" onclick="window.open('http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf', '_system');"><img class="img-responsive" src="SampleBallot.png"  heihgt="75" width="75"></a>Sample Ballot</li>
+
+-->
+<!--
+<li class="flex-item">
+<a href= "http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf" download="SampleBallot.pdf"><img class="img-responsive" src="SampleBallot.png"  heihgt="75" width="75"></a> Sample Ballot </li>
+-->
+
+
+<li class="flex-item">
+<a href= "/sampleBallot"><img class="img-responsive" src="SampleBallot.png"  heihgt="75" width="75"></a> Sample Ballot </li>
+
 </ul>
+
+
 <ul class="flex-container">
   <li class="flex-item"><a href="/needABallot"><img class="img-responsive" src="NeedBallot.png"  heihgt="75" width="75"></a>Need a Ballot?</li>
   <li class="flex-item"><a href="/militaryAndOverseas"><img class="img-responsive" src="military.png"  heihgt="75" width="75"></a>Military & Overseas Voters</li>
   <li class="flex-item"><a href="/accessibleVoting"><img class="img-responsive" src="accessible.png"  heihgt="75" width="75"></a>Accessible Voting</li>
 </ul>
 <ul class="flex-container">
+
+
   <li class="flex-item"><a href="/ballotReceived"><img class="img-responsive" src="BallotReceived.png" heihgt="75" width="75"></a>Was My Ballot Recieved?</li>
-  <li class="flex-item"><a href="/statistics" ><img class="img-responsive" src="Statistics.png" heihgt="75" width="75"></a>Statistics</li>
-  <li class="flex-item"><a href="/ballotReturns"><img class="img-responsive" src="ReturnsDistrict.png"  heihgt="75" width="75"></a>Ballot Returns by District</li>
+
+
+  <li class="flex-item"><a href="#" onclick="window.open('http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/stats.pdf', '_system');"><img class="img-responsive" src="Statistics.png" heihgt="75" width="75"></a>Statistics</li>
+
+
+
+<!-- -->
+
+ <li class="flex-item"><a href="/ballotReturns"><img class="img-responsive" src="ReturnsDistrict.png"  heihgt="75" width="75"></a>Ballot Returns by District</li>
+<!-- -->
+
 </ul>
                                 
 </template>
@@ -251,13 +278,13 @@ http://www.co.thurston.wa.us/auditor/Elections/voter_reg/ballot.htm" border='0' 
 
 <!-- Sample Ballot PDF --> 
 <template name="sampleBallot">
+<!-- In your template -->
+
 <div class="wrapper">
 <div class="child">
-<iframe src="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf" width="100%" height="600px"></iframe>
 
-<!-- <object data="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf" type="application/pdf">
-        <embed src="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf" type="application/pdf" />
-    </object> -->
+
+<iframe src="http://docs.google.com/gview?url=https://docs.google.com/viewer?srcid=1g08k-gnnhiLgHH0D3uawXnv_ST0fRwVnGBY6cbYtGYw&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:600px; height: 500px;" frameborder="0"></iframe><img class="img-responsive" src="SampleBallott.png" heihgt="75" width="75">
 
 </div>
 </div>
@@ -267,7 +294,6 @@ http://www.co.thurston.wa.us/auditor/Elections/voter_reg/ballot.htm" border='0' 
 
 <!-- Statistics PDF -->
 <template name="statistics">
-
 <div class="wrapper">
 <div class="child">
 <iframe src="http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/stats.pdf" width="100%" height="600px"></iframe>
@@ -290,6 +316,8 @@ http://www.co.thurston.wa.us/auditor/Elections/voter_reg/ballot.htm" border='0' 
 
 
 <!-- Old version of sample ballot 
+
+http://www.co.thurston.wa.us/auditor/Elections/2016elections/November/Sample_Ballot.pdf"
 
 <template name="sampleBallot">
 	<br>

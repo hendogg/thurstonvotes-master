@@ -113,6 +113,7 @@ if (Meteor.isClient) {
    Router.route('/statistics', function() {
     this.render('statistics');
     this.layout('mainNav');
+
   });
 
    Router.route('/voterPamphlet', function() {

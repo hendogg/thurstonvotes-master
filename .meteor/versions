@@ -60,6 +60,7 @@ mongo-id@1.0.6
 npm-mongo@2.2.16_1
 observe-sequence@1.0.14
 ordered-dict@1.0.9
+pascoual:pdfjs@1.1.114
 promise@0.8.8
 random@1.0.10
 reactive-dict@1.1.8
