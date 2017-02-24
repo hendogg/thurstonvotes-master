@@ -22,8 +22,8 @@ class voting extends Component {
 
 // navigation object
 const SimpleApp = TabNavigator({
-  'Thurston County': { screen: App },
-  'Networking': { screen: AppSecond },
+  'General Info': { screen: App },
+  'Voter Info': { screen: AppSecond },
   'Ballot Drop Sites': { screen: Maps },
 })
 

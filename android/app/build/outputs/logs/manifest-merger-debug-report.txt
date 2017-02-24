@@ -24,77 +24,23 @@ MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/hdogg/thurs
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:7:5-77
 MERGED from [com.facebook.react:react-native:0.41.2] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.41.2] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:9:5-11:41
 MERGED from [voting:react-native-maps:unspecified] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/voting/react-native-maps/unspecified/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:react-native:0.41.2] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:23:5-42
 MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.facebook.react:react-native:0.41.2] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
@@ -111,47 +57,17 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /home/hdogg/thurstonReact/and
 		INJECTED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:13:5-38:19
-MERGED from [com.facebook.react:react-native:0.41.2] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.facebook.react:react-native:0.41.2] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.facebook.soloader:soloader:0.1.0] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:16:7-39
+		ADDED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:16:7-36
 	android:allowBackup
 		ADDED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:15:7-33
 	android:icon
@@ -192,31 +108,6 @@ uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from [voting:react-native-maps:unspecified] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/voting/react-native-maps/unspecified/AndroidManifest.xml:10:5-81
 	android:name
 		ADDED from [voting:react-native-maps:unspecified] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/voting/react-native-maps/unspecified/AndroidManifest.xml:10:22-78
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:9-172
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:66-119
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:20-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:19:5-78
 	android:name
@@ -227,3 +118,23 @@ ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/hdogg/thurst
 		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:21:19-51
 	android:required
 		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/hdogg/thurstonReact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:20-65
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/hdogg/thurstonReact/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

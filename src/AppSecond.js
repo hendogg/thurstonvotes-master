@@ -25,7 +25,7 @@ var box_width = width / box_count - 30;
 const gDoc = 'http://docs.google.com/gview?embedded=true&url='
 // Icon images 
 
-const registration = require('../imgs/electionDates.png');
+const registration = require('../imgs/registrationDeadlines.png');
 const votersPamphlet = require('../imgs/votersPamphlet.png');
 const sampleBallot = require('../imgs/sampleBallot.png');
 const military = require('../imgs/military.png');
